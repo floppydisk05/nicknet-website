@@ -1,12 +1,26 @@
 body {
-    font-family: serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: white;
     background-image: url(img/starbg.gif);
 }
 
-#box-thing {
+a.navbar {
+    text-align: justify;
+    text-justify: inter-word;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#header-left {
     width: 50%;
-    text-align: center;
-    background-color:orange;
+    text-align: left;
+    /* background-color: orange; */
     margin: auto;
 }
