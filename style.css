@@ -3,3 +3,10 @@ body {
     color: white;
     background-image: url(img/starbg.gif);
 }
+
+#box-thing {
+    width: 50%;
+    text-align: center;
+    background-color:orange;
+    margin: auto;
+}
