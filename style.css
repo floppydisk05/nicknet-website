@@ -10,22 +10,20 @@ a.navbar {
     color: white;
 } 
 
-.nav {
-    list-style-type: none;
-    display: flex;
-    align-items: center;
-}
-
-.navitems {
-    margin: 20px;
-}
-
-a {
+a.navlink {
     text-decoration: none;
 }
 
-a:hover {
+a.navlink:hover {
     text-decoration: underline;
+}
+
+a.navlink:visited {
+    color: #FFFFFF;
+}
+
+a.navlink:link {
+    color: #FFFFFF;
 }
 
 #header-left {
