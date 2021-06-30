@@ -8,6 +8,16 @@ a.navbar {
     text-align: justify;
     text-justify: inter-word;
     color: white;
+} 
+
+.nav {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.navitems {
+    margin: 20px;
 }
 
 a {
@@ -19,7 +29,7 @@ a:hover {
 }
 
 #header-left {
-    width: 50%;
+    width: 79%;
     text-align: left;
     /* background-color: orange; */
     margin: auto;
