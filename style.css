@@ -26,6 +26,10 @@ a.navlink:link {
     color: #FFFFFF;
 }
 
+code.larger {
+    font-size: 18px;
+}
+
 #header-left {
     width: 79%;
     text-align: left;
