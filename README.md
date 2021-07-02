@@ -2,4 +2,6 @@
 
 The source code for the NickNet IRC website
 
-~~only exists so Nick and dkay can argue about commits or whatever idfk~~
+(Live Website (HTTPS))[https://irc.nick99nack.com/)
+
+(Live Website (HTTP))[http://irc.nick99nack.com/)
