@@ -36,3 +36,8 @@ code.larger {
     /* background-color: orange; */
     margin: auto;
 }
+
+br.smaller {
+    display: block;
+    margin: 2px 0;
+}
